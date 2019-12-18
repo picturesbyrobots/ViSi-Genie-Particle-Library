@@ -9,7 +9,7 @@
  * 
  */
 
-#include "genieParticle/genieParticle.h"
+#include "genieParticle.h"
 
 Genie genie;
 

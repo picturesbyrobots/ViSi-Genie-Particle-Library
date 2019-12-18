@@ -5,6 +5,7 @@ ViSi-Genie-Particle-Library
 
 Particle Photon Library for 4D Systems ViSi-Genie Environment
 
+
 This library now supports support for neagative numbers, unsigned longs, unsigned integers with the WriteStr function.
 This library now features enhanced String Writing capability, no longer is a character Array the only viable option. 
 This library recently included support for the new Workshop4 PRO features.
