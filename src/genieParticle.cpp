@@ -40,7 +40,7 @@
  *    If not, see <http://www.gnu.org/licenses/>.
  *********************************************************************/
 
-#include "genieParticle/genieParticle.h"
+#include "genieParticle.h"
 #include <math.h>
 #include <string.h>
 
